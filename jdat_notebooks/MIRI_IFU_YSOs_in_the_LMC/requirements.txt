@@ -1,7 +1,7 @@
 jupyter
 aplpy==2.0.3
 astrodendro==0.2.0
-astropy==4.1
+astropy==4.0.1.post1
 jwst
 matplotlib==3.3.0rc1
 pandas==1.0.5
